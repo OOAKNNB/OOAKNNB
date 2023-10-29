@@ -1,10 +1,16 @@
 # 💫About Me :
 💳 My full name is Nguyễn Ngọc Bình
+
 🏫 I'm currently a Senior student from University of Economics and Law (UEL)
+
 📚 My major is Fintech
+
 🌏 I'm living now in Ho Chi Minh City, Viet Nam
+
 😅 I'm a newbie in coding 🐧
+
 🧐 I’m interested in coding, finance, and music
+
 😎 My quote is “Sadness flies away on the wings of time”
 
 
